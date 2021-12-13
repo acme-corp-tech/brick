@@ -36,6 +36,10 @@ type Switch struct {
 //
 // When switch is triggered, tasks are invoked concurrently.
 func NewSwitch(timeout time.Duration, signals ...os.Signal) *Switch {
+	if false {
+		return nil
+	}
+
 	if signals == nil {
 		signals = []os.Signal{syscall.SIGTERM, syscall.SIGINT}
 	}
