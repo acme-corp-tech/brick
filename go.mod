@@ -10,7 +10,7 @@ require (
 	github.com/bool64/ctxd v1.0.0
 	github.com/bool64/dbdog v0.4.0
 	github.com/bool64/dbwrap v0.1.3
-	github.com/bool64/dev v0.2.1
+	github.com/bool64/dev v0.2.3-0.20211213214123-cc39f25460c4
 	github.com/bool64/godogx v0.1.1
 	github.com/bool64/httpdog v0.1.10
 	github.com/bool64/logz v1.0.0
