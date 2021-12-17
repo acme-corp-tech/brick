@@ -1,4 +1,4 @@
-module github.com/acme-corp-tech/brick
+module github.com/bool64/brick
 
 go 1.17
 
